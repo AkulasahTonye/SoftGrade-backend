@@ -20,6 +20,4 @@ console.log(analyzeNumbers(numbers));
 // Output: { largest: 20, smallest: 3, average: 9.2 }
 
 
-//  I made an array for the Numbers.
-// Inside that array box there are different Numbers large and small.
-// The Average is the sum of the whole number divided by the length of the array box
+
